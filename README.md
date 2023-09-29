@@ -30,8 +30,8 @@ as inputs for the setup will be used the following parameters
 | Description | Values |
 | ----------- | ----------- |
 | vlan        | 1005 |
-| Metal Gateway | 192.168.168.1 |
-| IP Reservation | 192.168.168.0/24 |
+| Metal Gateway | 192.168.105.1 |
+| IP Reservation | 192.168.105.0/24 |
 | VRF ASN | 65100 |
 | VRF 1 | 169.254.31.1/30 |
 | VRF 2 | 169.254.32.1/30 |
