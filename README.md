@@ -110,7 +110,7 @@ Project ID
 
 ![API Token](assets/project-id.png)
 
-keep in mind that we can use project level API as well as personal level API token
+keep in mind that we can use project level API token as well as personal level API token
 
 
 Create VRF
